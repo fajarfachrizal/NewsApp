@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="title_strings">Large and long title</string>
+    <string name="category_strings">Category</string>
+    <string name="author_strings">Fajar Fachrizal</string>
+</resources>
